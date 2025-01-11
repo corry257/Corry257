@@ -6,10 +6,11 @@ I'm from Brazil and I'm currently studying a technical systems development cours
 - 🌱 I’m currently learning programming and algorithm, database, digital design, web programming, computer fundamentals and software operation.
 - 📫 How to reach me:
   -  PSN: Corry257
-  -  https://www.xbox.com/pt-BR/play/user/Corry2571618
-  -  https://steamcommunity.com/id/corry257
-  -  https://www.youtube.com/corry257
-  -  https://www.twitch.tv/corry257  
+  -  XBOX: https://www.xbox.com/pt-BR/play/user/Corry2571618
+  -  STEAM: https://steamcommunity.com/id/corry257
+  -  YOUTUBE: https://www.youtube.com/corry257
+  -  TWITCH: https://www.twitch.tv/corry257
+  -  DISCORD: https://discord.gg/eG7ZbPb4Rr 
  
 - ⚡ Fun fact: I can speak P's language :)
   
