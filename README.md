@@ -1,17 +1,17 @@
-## Hello World! 👋
+# Olá Mundo! 👋
 
+**Atualmente vivo na cidade de São Paulo no Brasil, estou fazendo um curso técnico em Desenvolvimento de Sistemas e uma graduação em Filosofia. Esta é uma conta de estudos onde crio repositórios com tutoriais e projetos pessoais, o objetivo é aprender e compartilhar meus conhecimentos com o mundo.**
 
-I'm from Brazil and I'm currently studying a technical systems development course. This is a study account, where I create repositories with tutorials and personal non-professional projects, the objective is to learn and share my knowledge with the world
+- 🌱 Atualmente estou aprendendo **análise de projetos e desenvolvimento de sistemas, bancos de dados, sistemas embarcados, programação de aplicativos mobile e desenvolvimento web.**
 
-- 🌱 I’m currently learning programming and algorithm, database, digital design, web programming, computer fundamentals and software operation.
-- 📫 How to reach me:
-  -  PSN: Corry257
-  -  XBOX: https://www.xbox.com/pt-BR/play/user/Corry2571618
-  -  STEAM: https://steamcommunity.com/id/corry257
-  -  YOUTUBE: https://www.youtube.com/corry257
-  -  TWITCH: https://www.twitch.tv/corry257
-  -  DISCORD: https://discord.gg/eG7ZbPb4Rr 
- 
-- ⚡ Fun fact: I can speak P's language :)
+- 📫 Como me encontrar:
+  * [PSN:] Corry257
+  * [XBOX](https://www.xbox.com/pt-BR/play/user/Corry2571618)
+  * [STEAM](https://steamcommunity.com/id/corry257)
+  * [YOUTUBE](https://www.youtube.com/corry257)
+  * [TWITCH](https://www.twitch.tv/corry257)
+  * [DISCORD](https://discord.gg/eG7ZbPb4Rr)
   
-My professional account: https://github.com/alan-neves
+- ⚡ Um fato engraçado sobre mim: Eu consigo falar na lingua do "P" :)
+
+Minha conta profissional: https://github.com/alan-neves
