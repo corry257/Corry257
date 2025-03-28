@@ -1,6 +1,6 @@
 # Olá Mundo! 👋
 
-Atualmente vivo na cidade de São Paulo no Brasil, estou fazendo um curso técnico em **Desenvolvimento de Sistemas**, uma graduação em **Filosofia** e trabalhando como programador na Sessão Técnica de Informática da FFLCH-USP. Esta é uma conta de estudos onde crio repositórios com tutoriais e projetos pessoais, o objetivo é aprender e compartilhar meus conhecimentos com o mundo.
+Atualmente vivo na cidade de São Paulo no Brasil, estou fazendo um curso técnico em **Desenvolvimento de Sistemas**, uma graduação em **Filosofia** e trabalhando como programador na **Sessão Técnica de Informática da FFLCH-USP**. Esta é uma conta de estudos onde crio repositórios com tutoriais e projetos pessoais, o objetivo é aprender e compartilhar meus conhecimentos com o mundo.
 
 - 🌱 Atualmente estou aprendendo ***análise de projetos e desenvolvimento de sistemas, bancos de dados, sistemas embarcados, programação de aplicativos mobile e desenvolvimento web.***
 
